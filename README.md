@@ -1,9 +1,7 @@
 
-<div class="row">
                 <div class="col-lg-12">
                     <p>Copyright &copy; PROVAR 2016 - by<a href="http://m.me/startupmeifyoucan"> Desire Yavro</a></p>
                 </div>
-            </div>
 
 <!--# [Start Bootstrap](http://startbootstrap.com/) - [Full Slider](http://startbootstrap.com/template-overviews/full-slider/)
 
