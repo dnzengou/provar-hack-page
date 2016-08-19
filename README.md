@@ -1,4 +1,4 @@
-# [Start Bootstrap](http://startbootstrap.com/) - [Full Slider](http://startbootstrap.com/template-overviews/full-slider/)
+<!--# [Start Bootstrap](http://startbootstrap.com/) - [Full Slider](http://startbootstrap.com/template-overviews/full-slider/)
 
 [Full Slider](http://startbootstrap.com/template-overviews/full-slider/) is an HTML starter template for [Bootstrap](http://getbootstrap.com/) created by [Start Bootstrap](http://startbootstrap.com/). This template features a full page image slider header with captions.
 
@@ -24,4 +24,4 @@ Start Bootstrap is based on the [Bootstrap](http://getbootstrap.com/) framework 
 
 ## Copyright and License
 
-Copyright 2013-2016 Blackrock Digital LLC. Code released under the [MIT](https://github.com/BlackrockDigital/startbootstrap-full-slider/blob/gh-pages/LICENSE) license.
+Copyright 2013-2016 Blackrock Digital LLC. Code released under the [MIT](https://github.com/BlackrockDigital/startbootstrap-full-slider/blob/gh-pages/LICENSE) license.-->
