@@ -1,3 +1,10 @@
+
+<div class="row">
+                <div class="col-lg-12">
+                    <p>Copyright &copy; PROVAR 2016 - by<a href="http://m.me/startupmeifyoucan"> Desire Yavro</a></p>
+                </div>
+            </div>
+
 <!--# [Start Bootstrap](http://startbootstrap.com/) - [Full Slider](http://startbootstrap.com/template-overviews/full-slider/)
 
 [Full Slider](http://startbootstrap.com/template-overviews/full-slider/) is an HTML starter template for [Bootstrap](http://getbootstrap.com/) created by [Start Bootstrap](http://startbootstrap.com/). This template features a full page image slider header with captions.
